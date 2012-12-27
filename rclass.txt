@@ -1,0 +1,12 @@
+&6===== &5FantasyWar Help &8[&dClass-Ranks &71/1&8] &6=====
+&7http://wiki.fantasywar.net/Ranks
+
+&6There are 3 different classes for each empire.
+&6They all have there own rank with there own permissions.
+&6In chat they all have a different tag to recognize them.
+
+&6Dwarf: &7[&8StoneBeard&7] &7[&8IronBeard&7] &7[&8LongBeard&7]
+&6Troll: &7[&4Lurker&7] &7[&4Mauler&7] &7[&4Brute&7]
+&6Viking: &7[&3Freeman&7] &7[&3Huscarl&7] &7[&3Berserker&7]
+&6Elysian: &7[&2Animagus&7] &7[&2Forester&7] &7[&2Ranger&7]
+&6Eldar: &7[&eTusca&7] &7[&eMeita&&] &7[&eSerca&7]

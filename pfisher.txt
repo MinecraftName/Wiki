@@ -1,0 +1,11 @@
+&6===== &5FantasyWar Help &8[&dFisher &71/1&8] &6=====
+&7http://wiki.fantasywar.net/professions
+
+&6As a Fisher you need to catch fish to earn money.
+&6The better you get and the more you do the more you will earn.
+
+&6Extra job:
+&5Bring raw fish to the Fisher to earn extra money.
+
+&6Base earning:
+&6RawFish &7- &5Fish &a0.2

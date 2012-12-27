@@ -1,0 +1,12 @@
+&6===== &5FantasyWar Help &8[&dCharcterCards &71/1&8] &6=====
+&7http://wiki.fantasywar.net/Character
+
+&6You can create your own character in game.
+&6We expect everyone to create a character card.
+&6You can even create a complete lore/story.
+
+&6To get someone else his character card or lore
+&6Right click the player with paper for character card.
+&6And right click the player with book for story book.
+
+&6For commands please check &5/fw charc

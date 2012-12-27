@@ -1,0 +1,14 @@
+&6===== &5FantasyWar Help &8[&dChef &71/1&8] &6=====
+&7http://wiki.fantasywar.net/professions
+
+&6As a Chef you need to cook food to earn money.
+&6The better you get and the more you do the more you will earn.
+
+&6Extra job:
+&5Bring Bread to the Chef to earn extra money.
+
+&6Base earning:
+&6Beef &7- &5Cook &a0.16
+&6Chicken &7- &5Cook &a0.12
+&6Fish &7- &5Cook &a0.05
+&6Pork &7- &5Cook &a0.14

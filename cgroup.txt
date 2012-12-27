@@ -1,0 +1,19 @@
+&6===== &5FantasyWar Help &8[&dGroup &71/1&8] &6=====
+&7http://wiki.fantasywar.net/Chat
+
+&6Group chat is so you can talk to a certain group of players.
+&6When you create a group you can invite players.
+&6Everyone in the group can read the chat and others not.
+
+&6Commands: &7(Group admin/Mod)
+&6Command help &8----------------> &5/g help
+&6Create a group &8--------------> &5/g create {group}
+&6Invite a player &8-------------> &5/g invite {player}
+&6Kick a player &8---------------> &5/g kick {player}
+&6Promote a player &8------------> &5/g promote {player}
+&6Demote a player &8-------------> &5/g demote {player}
+&7(Group member)
+&6Join a group after invite &8--->&5/g join {group}
+&6Leave a group &8--------------->&5/g leave
+&6List group members &8----------> &5/g list
+&6Use the group chat &8----------> &5/g &7(toggle)

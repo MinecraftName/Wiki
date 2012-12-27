@@ -1,0 +1,14 @@
+&6===== &5FantasyWar Help &8[&dEmpire-Ranks &71/1&8] &6=====
+&7http://wiki.fantasywar.net/Ranks
+
+&6There are 5 different empires.
+&6They all have there own rank with there own permissions.
+&6In chat they all have a different tag to recognize them.
+
+&6More information can be found in /fw empires
+
+&7[&8Dwarf&7] &7worstboy32: &fThis is a dwarf tag!
+&7[&4Troll&7] &7worstboy32: &fThis is a troll tag!
+&7[&3Viking&7] &7worstboy32: &fThis is a viking tag!
+&7[&2Elysian&7] &7worstboy32: &fThis is a elysian tag!
+&7[&eEldar&7] &7worstboy32: &fThis is a eldar tag!

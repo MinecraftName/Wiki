@@ -1,0 +1,21 @@
+&6===== &5FantasyWar Help &8[&dEnvironment Rules &73/3&8] &6=====
+&7http://fantasywar.net/rules
+
+&58) &6Don't use water and lava to create a better protection.
+&7You're not allowed to use water and lava to protect your town.
+&7You can use it as decoration everywhere you want not as protection.
+
+&59) &6Build everything in style of your empire!
+&7Each empire have there own style and there own biomes.
+&7This means you also build your faction town in the style of your empire.
+&7If you're a viking you don't just create a sandstone house in the ocean.
+&7Look at the Spawns or main Faction towns to see your empire style.
+
+&510) &6Don't destroy generated structures, 
+&6They are part of the environment!
+&7There are many structures generated on the map to make the map better.
+&7You're not allowed to grief them.
+&7Just keep them how they are or use them to live in or make them better.
+&7But you're not allowed to grief them or destroy them.
+
+&cThe rules on the website are always most up to date!

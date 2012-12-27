@@ -1,0 +1,18 @@
+&6===== &5FantasyWar Help &8[&dTrading &71/1&8] &6=====
+
+&6Normally it's really easy to scam players with trading.
+&6But we have added a trading system so you can trade fair.
+&6Just sneak and right click a player to sent a trade request.
+&6When you sent a trade request the other need to do the same.
+&6This will open a trading GUI where you can put items in.
+&6The left side is yours. And the right side is from the other.
+&6There is a Green and a Red wool/button that you can use.
+&6When you hit the &cred &6one the trade will be stopped.
+&6Hit the &agreen &6one to accept the trade with the other.
+
+&6First sneak and right click another player to open the gui.
+&6Then both place items in the gui.
+&6And then click both on the green wool.
+
+&aTIP: &6Since gold is money you can easy trade with money.
+&aTIP: &6Since you can bottle up exp you can also use exp.

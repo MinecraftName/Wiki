@@ -1,0 +1,10 @@
+&6===== &5FantasyWar Help &8[&dMechanisms &72/2&8] &6=====
+
+&5Painting Switching:
+&6You can easy switch between paintings without removing them.
+&6Just right click a painting and use scroll up or down.
+
+&5Redstone NetherRack:
+&6You can toggle netherrack on and off with redstone.
+&6Just connect it with redstone and the netherrack will light up.
+&6It works the same as redstonelamps so you need to connect them right.

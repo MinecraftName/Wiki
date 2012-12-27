@@ -1,0 +1,16 @@
+&6===== &5FantasyWar Help &8[&dStaff-Ranks &71/1&8] &6=====
+&7http://wiki.fantasywar.net/Ranks
+
+&6There are 5 staff ranks.
+&6Admin, JrAdmin, PreMod and Helper.
+&6Each of this ranks have there own permissions.
+
+&6Admin/JrAdmin does manage the server and don't play.
+&6Mods/PreMods moderate the server (punishing, helping etc)
+&6And Helpers just help you out with questions/tickets.
+
+&7[&4Admin&7] &4worstboy32&7: &cThis is a admin tag!
+&7[&4JrAdmin&7] &4worstboy32&7: &cThis is a jradmin tag!
+&7[&2Mod&7] &2worstboy32&7: &aThis is a mod tag!
+&7[&3PreMod&7] &3worstboy32&7: &bThis is a premed tag!
+&7[&eHelper&7] &eworstboy32&7: &7This is a helper tag!

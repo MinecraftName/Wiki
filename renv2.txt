@@ -1,0 +1,20 @@
+&6===== &5FantasyWar Help &8[&dEnvironment Rules &72/3&8] &6=====
+&7http://fantasywar.net/rules
+
+&54) &6Don't create small towers and pillars!
+&7Don't create random towers and pillars on the map.
+&7You can create them in your town if it fit with your builds.
+
+&55) &6Don't place random water and lava!
+&7You're not allowed to place water and lava in the wilds without reason.
+&7If you want to create a farm or something you can place water.
+&7But just placing it on the surface is not allowed.
+
+&56) &6Don't spam place random blocks everywhere!
+&7Don't create random blocks that don't have any use.
+
+&57) &6Don't use obsidian to create a better protection for your town!
+&7You're not allowed to use obsidian as a building materialn.
+&7You can use it to decorate or create a very small vault for 1 chest.
+
+&6Continue reading on the next page! &5/fw renv3

@@ -1,0 +1,21 @@
+&6===== &5FantasyWar Help &8[&dAlchemist &71/1&8] &6=====
+&7http://wiki.fantasywar.net/professions
+
+&6As a alchemist you need to brew potions to earn money.
+&6The better you get and the more you do the more you will earn.
+
+&6Extra job:
+&5Bring health potions to the Alchemist to earn extra money.
+
+&6Base earning: 
+&7(Note: Items on left are what you brew with not output)
+&6NetherStalk &7- &5Brew &a0.06
+&6Redstone &7- &5Brew &a0.05
+&6GlowstoneDust &7- &5Brew &a0.05
+&6SpiderEye &7- &5Brew &a0.05
+&6Fermented SpiderEye &7- &5Brew &a0.06
+&6BlazePowder &7- &5Brew &a0.06
+&6Sugar &7- &5Brew &a0.03
+&6Speckled Melon &7- &5Brew &a0.2
+&6MagmaCream &7- &5Brew &a0.1
+&6GhastTear &7- &5Brew &a0.1

@@ -1,0 +1,18 @@
+&6===== &5FantasyWar Help &8[&dTroll &71/1&8] &6=====
+&6http://wiki.fantasywar.net/Troll
+
+&6Color: &4DarkRed
+&6LandScape: &5Jungle/Swamp/Urwald/Rivers
+&6Empire Leader: &5TehMagicToolbox
+&6CountryName: &5
+&6CityName: &5
+&6CityLocation: &5X: &8541 &5Z: &8-287
+&6Main Faction: &5
+&6Classes: &5Lurker, Brute & Mauler
+
+&6Ability's:
+&6- Disguise: &5Zombie
+&6- MagicSpells: &5WaterWalk, Camouflage & ClubAttack
+&6- Professions: &5Lumberjacker, Alchemist & Chef
+&6- Empire related Shop
+&6- Empire related Quests

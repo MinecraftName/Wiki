@@ -1,0 +1,15 @@
+&6===== &5FantasyWar Help &8[&dRules &71/1&8] &6=====
+
+&6There are many rules you have to follow on the server.
+&6Most of them are really logic but some are unique to the server.
+&6The rules are split up in different categories see below.
+
+&6== &8The Rules &6==
+&6Main Rules &8---------> &5/fw rmain
+&6PvP/Raid Rules &8-----> &5/fw rpvp
+&6RolePlay Rules &8-----> &5/fw rrp
+&6Environment Rules &8--> &5/fw revnv
+&6Other Rules &8--------> &5/fw rother
+
+&6== &8Complete list with described rules &6==
+&7http://fantasywar.net/rules

@@ -1,0 +1,14 @@
+&6===== &5FantasyWar Help &8[&dEmpire &71/1&8] &6=====
+&7http://wiki.fantasywar.net/Chat
+
+&6Empire chat means only your empire members can read it.
+&6When there are wars and things with empire you use this chat.
+&6It's good to discuss tactics and prepare and manage good wars.
+&6This chat is a toggle instead of using a command.
+&6You can just toggle it on and you can keep sending msges in it.
+&6To toggle Empire chat use &5/e &6And then you can chat in it.
+&6Use the same command to toggle it off again.
+
+&6Example: &8/e &7(toggle on)
+&6Example: &8Come to 453 -4359 for a big war vikings!
+&6Example: &8/e &7(Toggle off again)

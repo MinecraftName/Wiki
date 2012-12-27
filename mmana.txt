@@ -1,0 +1,19 @@
+&6===== &5FantasyWar Help &8[&dMagic &71/1&8] &6=====
+&7http://wiki.fatasywar.net/Mana
+
+&6Mana is something like Experience.
+&6You use Experience to enchant.
+&6And you use mana to cast spells.
+
+&6Mana does regenerate automatic!
+
+&6Each spell have a different amount of mana needed.
+&6When you join the server you have really less mana.
+&6And it will generated really slow.
+&6But you can buy better magic ranks for more mana. &5/fw nmana
+
+&6Your mana level will be displayed instead of your exp.
+&6If you use mana it will show Mana.
+&6And if you use XP it will show the xp levels.
+&6If you want to see mana you can always do &5/mana
+&6And if you want to see your experience do &5/myxp

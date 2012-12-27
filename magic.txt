@@ -1,0 +1,17 @@
+&6===== &5FantasyWar Help &8[&dMagic &71/1&8] &6=====
+&7http://wiki.fantasywar.net/Magic
+
+&6Magic is something very special and amazing on the server.
+6You can learn different magic spells and use them.
+&6When you first start you have only basic spells.
+&6To learn spells you need to go to the library.
+&6Some spells in the library are locked till you earn them.
+&6Like for some spells you need to do Quests.
+&6Each spell that you learn in the library is yours.
+&6You won't unlearn it until you lose a rank or something.
+
+&6There are 50+ spells on the server.
+&6We will add more and more from time to time.
+
+&6For more information how to use spells see: &5/fw mcast
+&6To cast spells you need mana see: &5/fw mmana

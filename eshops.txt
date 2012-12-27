@@ -1,0 +1,16 @@
+&6===== &5FantasyWar Help &8[&dShops &71/1&8] &6=====
+&7http://wiki.fantasywar.net/Shops
+
+&6There are many shops on the server.
+&6They are spread out on the map.
+&6Always try find the cheapest deals.
+&6Getting money is hard so you should try find the cheapest.
+
+&6Server shops always have signs that start with &5[BUY]
+&6On the second line you can find the amount your buying.
+&6On the third line you see the item.
+&7(Most of the times the item is also displayed above it!)
+&6And on the last line you can find the price.
+
+&6There are also player shops where shops aren't the same.
+&6More information for player shops here: &5/fw pshops

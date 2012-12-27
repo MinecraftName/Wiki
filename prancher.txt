@@ -1,0 +1,14 @@
+&6===== &5FantasyWar Help &8[&dRancher &71/1&8] &6=====
+&7http://wiki.fantasywar.net/professions
+
+&6As a Rancher you need to breed mobs and kill them to get food.
+&6The better you get and the more you do the more you will earn.
+
+&6Extra job:
+&5Bring Wool to the Rancher to earn extra money.
+
+&6Base earning:
+&6Chickens &7- &5Kill &a0.1
+&6Cows &7- &5Kill &a0.1
+&6Pigs &7- &5Kill &a0.1
+&6Sheeps &7- &5Kill &a0.1

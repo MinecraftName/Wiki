@@ -1,0 +1,13 @@
+&6===== &5FantasyWar Help &8[&dShout &71/1&8] &6=====
+&7http://wiki.fantasywar.net/Chat
+
+&6Shout is probably the chat you will use most.
+&6You shout your chat if you want everyone to read it.
+&6There is no command for shouting.
+&6Instead you need to add a ! symbol before your text.
+
+&6Example: &8!Anyone wanna join my faction?
+
+&6If you don't use the ! symbol before your text
+&6Then you will talk local.
+&6See &5/fw clocal &6for more info.

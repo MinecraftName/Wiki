@@ -1,0 +1,13 @@
+&6===== &5FantasyWar Help &8[&dSmith &71/1&8] &6=====
+&7http://wiki.fantasywar.net/professions
+
+&6As a Smith you need to smelt ores to earn money.
+&6The better you get and the more you do the more you will earn.
+
+&6Extra job:
+&5Bring CharCoal to the Smith to earn extra money.
+
+&6Base earning:
+&6Iron &7- &5Smelt &a0.08
+&6Gold &7- &5Smelt &a0.06
+&6CharCoal &7- &5Smelt &a0.03

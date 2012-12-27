@@ -1,0 +1,8 @@
+&6===== &5FantasyWar Help &8[&dWarrior &71/1&8] &6=====
+&7http://wiki.fantasywar.net/professions
+
+&6As a Warrior you need to kill other players to earn money.
+&6The better you get and the more you do the more you will earn.
+
+&6Base earning:
+&6Player &7- &5Kill &a0.25

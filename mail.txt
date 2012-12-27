@@ -1,0 +1,11 @@
+&6===== &5FantasyWar Help &8[&dName &71/1&8] &6=====
+
+&6You can sent mail to other players.
+&6You can just write a book and mail it to someone.
+&6Hold the book you want to send and type this command.
+&5/mail send {player}
+&6Then a poster will come take the book.
+&6He will bring it to the other player and he can pick it up.
+&6If the other player is offline he will receive it later.
+&6Remember that you mail the book with content.
+&6This means you will lose the book unless he mails it back.

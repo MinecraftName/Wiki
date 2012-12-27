@@ -1,0 +1,19 @@
+&6===== &5FantasyWar Help &8[&dRandom Events &71/1&8] &6=====
+
+&6This are random events that happen on certain actions.
+
+&5Fire: &6You can randomly burn by using a lighter.
+&5FoodPoison: &6You have a chance to get poisoned by eating raw food.
+&5Lightning: &6You can get strikes by lightning when standing under a tree.
+&5Concussion: &6The higher you fall the worse the concussion will be.
+&5Electrocution: &6When you touch powered redstone you get electrocuted.
+&5Cows Kick: &6If you milk a cow wrong they will kick you.
+&5Crafting Thumb: &6While crafting you can hit your thumb.
+&5Mine Effects: &6While mining you can get speed or slow buffs.
+&5Squid Attack: &6Squids will attack you back when you hit them.
+&5Fishing loot: &6Chance to catch items or mobs when fishing.
+&5Bow Break: &6Your bow can break while using it.
+&5Thirst: &6You can get thirsty in the desert and get dizzy.
+&5Zombie: &6When you kill a zombie another can spawn
+&5BlockBreak: &6Blocks have a chance to break when walking on it.
+&5Unstable tnt: &6When you place tnt it can explode.

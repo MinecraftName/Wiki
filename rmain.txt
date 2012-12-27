@@ -1,0 +1,20 @@
+&6===== &5FantasyWar Help &8[&dMain Rules &71/3&8] &6=====
+&7http://fantasywar.net/rules
+&cThe rules on the website are always most up to date!
+
+&51) &6No use of modified clients or ways to obtain an unfair advantage!
+&7This means no Xray, FlyHack, ReachHack, SpeedHack,AutoClickers, 
+&7or any other kind of mod that give you advantage in the game!
+&8Allowed mods are: &7Minimap, ImprovedChat, Optifine.
+
+&52) &6No spam, Message repeating, Caps-lock 
+&6or any other kind of chat flooding!
+&7We have great plugins to block each kind of spam. 
+&7But do NOT even try to spam you will be banned without a warning!
+
+&53) &6No vile language and no discrimination!
+&7If you want to rage or discriminate players then go somewhere else.
+&7We don't allow it on the server. 
+&7There are young children who play minecraft.
+
+&6Continue reading on the next page! &5/fw rmain2

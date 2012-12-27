@@ -1,0 +1,16 @@
+&6===== &5FantasyWar Help &8[&dName &71/1&8] &6=====
+&7http://wiki.fantasywar.net/professions
+
+&6As a Builder you just need to build amazing things.
+&6The better you get and the more you do the more you will earn.
+
+&6Base earning:
+&6Planks &7- &5Break &c-0.02 &7- &5Place &a0.02
+&6Fence &7- &5Break &c-0.02 &7- &5Place &a0.02
+&6Wool &7- &5Break &c-0.02 &7- &5Place &a0.02
+&6SandStone &7- &5Break &c-0.02 &7- &5Place &a0.02
+&6Glass &7- &5Break &c-0.02 &7- &5Place &a0.02
+&6GlassPane &7- &5Break &c-0.02 &7- &5Place &a0.02
+&6Brick &7- &5Break &c-0.02 &7- &5Place &a0.02
+&6Slabs &7- &5Break &c-0.02 &7- &5Place &a0.02
+&6SmoothBrick &7- &5Break &c-0.02 &7- &5Place &a0.02

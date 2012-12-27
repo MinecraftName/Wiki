@@ -1,0 +1,22 @@
+&6===== &5FantasyWar Help &8[&dMechanisms &71/2&8] &6=====
+
+&6There are different mechanisms on the server.
+&6Think about Gates and Bridges and some other things.
+
+&5Gates:
+&6Gates can be build by creating a frame with fences on top.
+&6Place down a sign on or under the frame with &5[GATE] &7(Second line)
+&6If you want to gate from another material then fence
+&6then type the material name on the third line.
+
+&5Bridges:
+&6Bridges can be build by creating a start and end line.
+&6Like you place 3 blocks on one side and 3 on another.
+&6Under or on top you place a sign with &5[BRIDGE] &7(Second line)
+
+&5Bottle up XP:
+&6You can convert your experience to experience bottles.
+&6Right click a spawner and you can take out the bottles.
+&6This can be useful to store in banks or in chests etc.
+
+&6There is even more see page 2! &5/fw mech2

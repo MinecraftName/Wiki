@@ -1,0 +1,19 @@
+&6===== &5FantasyWar Help &8[&dMiner &71/1&8] &6=====
+&7http://wiki.fantasywar.net/professions
+
+&6As a Miner you need to mine and find ores and gems.
+&6The better you get and the more you do the more you will earn.
+
+&6Extra job:
+&5Bring Diamonds to the Miner for extra money.
+
+&6Base earning:
+&6Stone &7- &5Break &a0.02 &7- &5Place &c-0.02
+&6CoalOre &7- &5Break &a0.05
+&6RedstoneOre &7- &5Break &a0.08
+&6IronOre &7- &5Break &a0.1 &7- &5Place &c-0.1
+&6GoldOre &7- &5Break &a0.3 &7- &5Place &c-0.3
+&6LapisOre &7- &5Break &a0.1
+&6DiamondOre &7- &5Break &a1.0
+&6EmeraldOre &7- &5Break &a1.0
+&6MossyCobble &7- &5Break &a0.05 &7- &5Place &c-0.05

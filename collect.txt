@@ -1,0 +1,17 @@
+&6===== &5FantasyWar Help &8[&dCollecting World &71/1&8] &6=====
+
+&6We have a extra world (Frontier) where you can collect items.
+&6Instead of destroying the main world you need to go to the Frontier.
+&6Inside the Frontier you can't break most ores though.
+&6To mine you can go to Euphoria the main world.
+&6But if you just want stone go to Frontier.
+&6Also chopping down trees is something you do in the Frontier.
+&6If you decide to chop down trees in main world you need to replant them.
+&6But you can see that also in the environment rules.
+
+&6There are many portals in the Frontier that you can use.
+&6The frontier world will reset pretty often so you can easy get items.
+&6Some professions can only be done in the Frontier.
+
+&6To get to the frontier use the portal in the main spawn.
+&6Just take the bridge to the other side of the train station.

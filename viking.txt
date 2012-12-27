@@ -1,0 +1,18 @@
+&6===== &5FantasyWar Help &8[&dViking &71/1&8] &6=====
+&6http://wiki.fantasywar.net/Viking
+
+&6Color: &3DarkAqua
+&6LandScape: &5Ocean/Islands/Ice/Snow/Taiga
+&6Empire Leader: &5Aronnn
+&6CountryName: &5
+&6CityName: &5
+&6CityLocation: &5X: &8-173 &5Z: &8-676
+&6Main Faction: &5
+&6Classes: &5Freeman, Huscarl & Berserker.
+
+&6Ability's:
+&6- Disguise: &5SnowGolem
+&6- MagicSpells: &5Scuba, Snowball & SpeedBoats.
+&6- Professions: &5Fisher, Digger & Farmer.
+&6- Empire related Shop
+&6- Empire related Quests

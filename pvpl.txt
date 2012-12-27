@@ -1,0 +1,12 @@
+&6===== &5FantasyWar Help &8[&dAnti PvPLog &71/1&8] &6=====
+
+&6We have a amazing custom plugin to block pvp logging.
+&6When you get hit by someone you are tagged.
+&6And you stay tagged unless you do the following.
+
+&6- Get away more then 25 blocks from the attacker.
+&6- Then wait 10 seconds till you get untagged.
+
+&6Use &5/tag &6to see how long you are tagged.
+
+&cIF YOU LOG OFF WHILE YOU ARE TAGGED YOU DIE AND LOSE ALL!

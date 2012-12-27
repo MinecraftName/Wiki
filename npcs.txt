@@ -1,0 +1,15 @@
+&6===== &5FantasyWar Help &8[&dNPC'S &71/1&8] &6=====
+
+&6There are many npc's on the map.
+&6You probably know npc's like boring people.
+&6Most of our npc's actually do stuff.
+&6Like to travel with trains you need to talk to npc's.
+&6This means you actually talk to them.
+&6So if they ask you "Would you like to buy a ticket?"
+&6Then you type Yes or No in the chat and they will respond.
+&6NPC's can also have quests and objectives,
+&6More information about quest npc's can be found on quest page.
+&6There are 150+ npc's and more then 50% of them can do stuff.
+
+&6For a list of npc types
+&6And information about them visit: &5/fw nlist

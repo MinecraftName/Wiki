@@ -1,0 +1,18 @@
+&6===== &5FantasyWar Help &8[&dElysian &71/1&8] &6=====
+&6http://wiki.fantasywar.net/Elysian
+
+&6Color: &2DarkGreen
+&6LandScape: &5Forest/ForestHills/Rivers/BigForest
+&6Empire Leader: &5Lastfatwookie
+&6CountryName: &5
+&6CityName: &5
+&6CityLocation: &5X: &8-147 &5Z: &8519
+&6Main Faction: &5
+&6Classes: &5Animagus, Forester & Ranger.
+
+&6Ability's:
+&6- Disguise: &5Wolf
+&6- MagicSpells: &5PoisonArrow, ArrowBarrage & Treefeller.
+&6- Professions: &5Lumberjacker, Hunter & Rancher
+&6- Empire related Shop
+&6- Empire related Quests

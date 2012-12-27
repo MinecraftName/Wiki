@@ -1,0 +1,14 @@
+&6===== &5FantasyWar Help &8[&dEmpires &71/1&8] &6=====
+&7http://wiki.fantasywar.net/Empires
+
+&8== &6Global info &8==
+&6Empire Info &8---> &5/fw einfo
+&6Joining &8-------> &5/fw ejoin
+&6Classes &8-------> &5/fw class
+
+&8== &6The Empires &8==
+&6Dwarf &8---------> &5/fw edwarf
+&6Troll &8---------> &5/fw etroll
+&6Viking &8--------> &5/fw eviking
+&6Eldar &8---------> &5/fw eeldar
+&6Elysian &8-------> &5/fw eelysian

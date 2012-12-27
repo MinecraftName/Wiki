@@ -1,0 +1,18 @@
+&6===== &5FantasyWar Help &8[&dProfessions &71/1&8] &6=====
+&7&7http://wiki.fantasywar.net/Professions
+
+&6Professions are things you will get better in from time to time.
+&6You will earn money by doing your profession.
+&6First you won't earn a lot and it will go really slow.
+&6But when you level more up you will get more and more.
+&6Each empire have a total of 5 professions.
+&6Warrior and Builder professions are available for all empires.
+&6To get a profession you need to find the npc of your profession.
+&6Outside spawn there are different buildings with npcs.
+&6You can just talk to the npc and answer his questions.
+&6For information what you earn and do for each profession see
+&6one of the following pages. &5/fw p<proff>
+
+&6Professions: &5Miner&6, &5Smith&6, &5Farmer&6, &5Chef&6, &5Rancher&6, 
+&5Digger&6, &5Hunter&6, &5Warrior&6, &5Builder&6, &5Enchanter&6, &5Alchemist&6, 
+&5Lumberjacker &6and &5Fisher

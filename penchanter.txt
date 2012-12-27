@@ -1,0 +1,20 @@
+&6===== &5FantasyWar Help &8[&dEnchanter &71/1&8] &6=====
+&7http://wiki.fantasywar.net/professions
+
+&6As a enchanter you need to enchant items to earn money.
+&6The better you get and the more you do the more you will earn.
+
+&6Base earning: 
+&7(Note: Items on left are what you enchant. Enchantments don't matter.)
+&6WoodenSword &7- &5Enchant &a0.05
+&6StoneSword &7- &5Enchant &a0.07
+&6IronSword &7- &5Enchant &a0.09
+&6Iron Helmet &7- &5Enchant &a0.14
+&6Iron Chestplate &7- &5Enchant &a0.18
+&6Iron Leggings &7- &5Enchant &a0.15
+&6Iron Boots &7- &5Enchant &a0.1
+&6Leather Helmet &7- &5Enchant &a0.12
+&6Leather Chestplate &7- &5Enchant &a0.14
+&6Leather Leggings &7- &5Enchant &a0.11
+&6Leather Boots &7- &5Enchant &a0.08
+&6Bow &7- &5Enchant &a0.08

@@ -1,0 +1,13 @@
+&6===== &5FantasyWar Help &8[&dRanks &71/1&8] &6=====
+&7http://wiki.fantasywar.net/Ranks
+
+&6There are many different ranks on the server.
+&6This might get really confused so here is a lost for all ranks.
+&6There are different rank categories.
+
+&6== &8Rank categories &6==
+&6Staff ranks &8-------> &5/fw rstaff
+&6Empire ranks &8------> &5/fw rempire
+&6Classes ranks &8-----> &5/fw rclass
+&6Donator ranks &8-----> &5/fw rdonator
+&6Other ranks &8-------> &5/fw rnew

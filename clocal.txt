@@ -1,0 +1,13 @@
+&6===== &5FantasyWar Help &8[&dLocal &71/1&8] &6=====
+&7http://wiki.fantasywar.net/Chat
+
+&6Local chat is the default chat on FantasyWar.
+&6You always talk local when you talk
+&6Unless you use one of the other chat modes.
+&6If you talk local you will see a tag like &7[&1L&7]
+&6If you talk local all players more then 50 blocks..
+&6away from you can't read your chat.
+&6This is radius so it goes in all directions.
+
+&6If you talk local there is less chance staff can help.
+&6Read info about tickets so you can easy get help.

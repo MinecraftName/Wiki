@@ -1,0 +1,19 @@
+&6===== &5FantasyWar Help &8[&dGold &71/1&8] &6=====
+&7http://wiki.fantasywar.net/Economy
+
+&6As you read in the intro gold on the server is your money.
+&6This means if you don't have gold in your inventory 
+&6the server thinks you have no money.
+&6This is more realistic and makes it harder to manage it.
+&6Since there is no place where your money is save unless.. 
+&6you place it in one of the Banks but that cost you money.
+
+&6== &8Gold Prices &6==
+&6GoldNugget &8= &51
+&6GoldIngot &8= &59
+&6GoldBlock &8= &581
+
+&6When you need to pay 9 and you have a goldblock then it will 
+&6change the goldblock automatic in ingots so you can pay it.
+&6When you pay another player and he don't have enough place 
+&6in his inventory then it will wait till it have a open slot.

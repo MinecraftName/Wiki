@@ -1,0 +1,21 @@
+&6===== &5FantasyWar Help &8[&dHunter &71/1&8] &6=====
+&7http://wiki.fantasywar.net/professions
+
+&6As a Hunter you need to hunt down monsters and loot them.
+&6The better you get and the more you do the more you will earn.
+
+&6Extra job:
+&5Bring bones to the Hunter to earn extra money.
+
+&6Base earning:
+&6Creeper &7- &5Kill &a0.1
+&6Skeleton &7- &5Kill &a0.06
+&6Spider &7- &5Kill &a0.06
+&6Zombie &7- &5Kill &a0.05
+&6PigZombie &7- &5Kill &a0.03
+&6Ghast &7- &5Kill &a0.2
+&6Enderman &7- &5Kill &a0.2
+&6Giant &7- &5Kill &a0.2
+&6CaveSpider &7- &5Kill &a0.06
+&6Blaze &7- &5Kill &a0.06
+&6Silverfish &7- &5Kill &a0.02

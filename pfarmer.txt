@@ -1,0 +1,16 @@
+&6===== &5FantasyWar Help &8[&dFarmer &71/1&8] &6=====
+&7http://wiki.fantasywar.net/professions
+
+&6As a Farmer you need to harvest farms to earn money.
+&6The better you get and the more you do the more you will earn.
+
+&6Extra job:
+&5Bring seeds to the Farmer to earn extra money.
+
+&6Base earning:
+&6GrownCrops &7- &5Break &a0.04 &7- &5Place &c-0.04
+&6NotGrownCrops &7- &5Break &c-0.02 &7- &5Place &a0.02
+&6MelonBlocks &7- &5Break &a0.02 &7- &5Place &c-0.02
+&6Pumpkin &7- &5Break &a0.02 &7- &5Place &c-0.02
+&6MelonStems &7- &5Break &c-0.02 &7- &5Place &a0.02
+&6PumpkinStems &7- &5Break &c-0.02 &7- &5Place &a0.02

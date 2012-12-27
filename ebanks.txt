@@ -1,0 +1,19 @@
+&6===== &5FantasyWar Help &8[&dName &71/1&8] &6=====
+
+&6We have our own bank system to store items money and exp.
+&6There are Banker npc's on different locations on the map.
+&6You can just right click the banker to open your account.
+&6You will see a guy with many chests and that are your slots.
+&6You can't place items in your bank yet.
+&6Each bank slot cost money and the more you buy the more you pay.
+&6The first slot will be cheap but for the last one you pay more.
+&6Once you buy a slot the chest will be gone and you can use it.
+&6You can place in &eGold &6To store money.
+&6And you can place &aExperience Bottles &6to store experience.
+
+&6To buy a bank slot click a chest in your account.
+&6This will tell you how much it cost.
+&6To buy it type &5/bank accept
+
+&6You can always look in your bank but not manage it.
+&6Use &5/bank show &6to do this.

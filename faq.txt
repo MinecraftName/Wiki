@@ -1,0 +1,8 @@
+&6===== &5FantasyWar Help &8[&dFAQ &71/1&8] &6=====
+&7http://wiki.fantasywar.net/Faq
+
+&6Page 1 &8-------> &5/fw f1
+&6Page 2 &8-------> &5/fw f2
+&6Page 3 &8-------> &5/fw f3
+&6Page 4 &8-------> &5/fw f4
+&6Page 5 &8-------> &5/fw f5

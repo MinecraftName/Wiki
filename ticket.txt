@@ -1,0 +1,19 @@
+&6===== &5FantasyWar Help &8[&dHelp Tickets &71/1&8] &6=====
+
+&6If you want to get help it's smart to use the ticket system.
+&6You can easy create a ticket and the first online staff can help.
+&6Staff can easy see the tickets and you will get quick and good help.
+&6If you ask questions in chat you have the chance staff don't help you.
+
+&6Commands:
+&5/modreq {question} &7- &6Create a new ticket
+&5/check [ID] &7- &6See your own tickets or a specific one.
+&5/done {ID} &7- &6Close one of your own tickets.
+
+&6Please try give as many as possible information in a ticket.
+&6Try make it so the staff can help you even if you are offline.
+&6So if you want a staff to check logs you create it on location.
+&6But you also specify what exact you want us to check and for who.
+
+&aTIP: &6When you create a ticket your location is saved.
+&6So always create tickets on a location where you need help.

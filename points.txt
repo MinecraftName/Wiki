@@ -1,0 +1,16 @@
+&6===== &5FantasyWar Help &8[&dPoints &71/1&8] &6=====
+
+&6Points is something different then experience and money.
+&6There is only one way to earn points and that is by Voting.
+&6When you vote you will earn points that you can spent later.
+&6With points you can buy things you normally can't buy.
+&6But also basic things.
+&6There is one shop on the server where you can pay with points.
+&6You can earn 9 points every day!
+&6The first 5 points can be earned by voting. &8(/fw vote)
+&6And the other 4 points can be earned by commenting.
+&6For every post on the MinecraftForums you get 2 points.
+&6The voting system goes completely automatic.
+&6For the comments you can just create a ticket &8(/fw ticket)
+
+&6You can check your points by doing: &5/points me

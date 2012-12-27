@@ -1,0 +1,20 @@
+&6===== &5FantasyWar Help &8[&dMenu &71/1&8] &6=====
+&6===== &8You can always look at the wiki for more info &6=====
+&7http://wiki.fantasywar.net
+
+&7You first have to go through some menus!
+
+&6Starter Guide &8-> &5/fw guide
+&6Rules &8---------> &5/fw rules
+&6FAQ &8-----------> &5/fw faq
+&6Empires &8-------> &5/fw empires
+&6Factions &8------> &5/fw factions
+&6Economy &8-------> &5/fw economy
+&6Proffessions &8--> &5/fw prof
+&6NPC'S &8---------> &5/fw npcs
+&6Quests &8--------> &5/fw quests
+&6Magic &8---------> &5/fw magic
+&6Chat &8----------> &5/fw chat
+&6Ranks &8---------> &5/fw ranks
+&6Donate &8--------> &5/fw donate
+&6Other &8---------> &5/fw other

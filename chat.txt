@@ -1,0 +1,15 @@
+&6===== &5FantasyWar Help &8[&dChat &71/1&8] &6=====
+&7http://wiki.fantasywar.net/Chat
+
+&6There are many ways of chatting on the server.
+&6Make sure you use the right one on the right moment. 
+&6Else players might ignore or don't hear you.
+
+&6== &8Chat Types &6==
+&6Shout &8-----> &5/fw cshout
+&6Local &8-----> &5/fw clocal
+&6OOC &8-------> &5/fw cooc
+&6Empire &8----> &5/fw cempire
+&6Faction &8---> &5/fw cfaction
+&6Group &8-----> &5/fw cgroup
+&6Private &8---> &5/fw cprivate

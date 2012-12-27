@@ -1,0 +1,17 @@
+&6===== &5FantasyWar Help &8[&dMagic &71/1&8] &6=====
+&7http://wiki.fantasywar.net/Magic
+
+&6When you use spells we call it casting spells.
+&6To cast a spell you can use different items.
+&6Most spells are in the Book, BlazeRod & GoldenSword.
+
+&5Books: &6Mostly got spells for your self like buffs etc.
+&5BlazeRod: &6Mostly got spells for long range casting.
+&6GoldenSword: &6Mostly got spells for short range combat.
+
+&6But some spells use other items or some even none.
+&6Casting spells is almost always by left clicking.
+&6You almost always have more then 1 spell learned.
+&6This means you need to select a spell to cast.
+&6Right click the item to cycle through different spells.
+&6And when it says you selected: … then you can left click.

@@ -1,0 +1,19 @@
+&6===== &5FantasyWar Help &8[&dCharcterCards &71/1&8] &6=====
+&7http://wiki.fantasywar.net/Character
+
+&6There are many things you can put in your card.
+&6Below you find all commands to add the info.
+
+&5/char edit {option} {answer}
+&6This is to set up your character.
+&6Available options are:
+&5Name, Age, Gender, Empire, Class, Profession, Ambition1,
+&5Ambition2, Ambition3
+&5Example: &8/char edit empire Dwarf
+
+&5/char edit story
+&6This will active story creation.
+&6You will be given a book to edit/create your story.
+
+&5/char &8--> &6View your own card.
+&5/story &8=> &6View your own story.

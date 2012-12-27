@@ -1,0 +1,2 @@
+&6You're now slowly healing!
+&6In 5 minutes you will be completely fit again.

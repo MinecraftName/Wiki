@@ -1,0 +1,16 @@
+&6===== &5FantasyWar Help &8[&dDigger &71/1&8] &6=====
+&7http://wiki.fantasywar.net/professions
+
+&6As a Digger you need to excavate different blocks to earn money.
+&6The better you get and the more you do the more you will earn.
+
+&6Extra job:
+&5Bring Flint to the digger to earn extra money.
+
+&6Base earning:
+&6Dirt &7- &5Break &a0.02 &7- &5Place &c-0.02
+&6Grass &7- &5Break &a0.02 &7- &5Place &c-0.02
+&6Gravel &7- &5Break &a0.02 &7- &5Place &c-0.02
+&6Snow &7- &5Break &a0.02 &7- &5Place &c-0.02
+&6Clay &7- &5Break &a0.03 &7- &5Place &c-0.03
+&6SoulSand &7- &5Break &a0.03 &7- &5Place &c-0.03

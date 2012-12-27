@@ -1,0 +1,13 @@
+&6===== &5FantasyWar Help &8[&dNPC List &71/1&8] &6=====
+&7http://wiki.fantasywar.net/NPC
+
+&6This are the different npc types that you interact with.
+
+&6NPC's at tutorial &8----> &5/fw ntut
+&6Empire NPC's &8---------> &5/fw nempire
+&6Profession NPC's &8-----> &5/fw nprof
+&6Medics &8---------------> &5/fw nmedic
+&6Mana seller &8----------> &5/fw nmana
+&6Vendors/Collectors &8---> &5/fw ntrain
+&6BlackSmith &8-----------> &5/fw nsmith
+&6Empire Guards &8--------> &5/fw nguards

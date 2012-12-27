@@ -1,0 +1,16 @@
+&6===== &5FantasyWar Help &8[&dOther &71/1&8] &6=====
+&7http://wiki.fantasywar.net/Other
+
+&6This are pages that aren't listed in the menu or other pages.
+&6That doesn't mean it's less important info.
+
+&6Things to do &8-------> &5/fw todo
+&6Random Events &8------> &5/fw revents
+&6Mechanisms &8---------> &5/fw mech
+&6Charcter Cards &8-----> &5/fw char
+&6Mail system &8--------> &5/fw mail
+&6Anti PvPLog &8--------> &5/fw pvpl
+&6Points/Voting &8------> &5/fw points
+&6Reports/Questions &8--> &5/fw ticket
+&6Trading System &8-----> &5/fw trade
+&6Collecting World &8---> &5/fw collect

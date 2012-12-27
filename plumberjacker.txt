@@ -1,0 +1,12 @@
+&6===== &5FantasyWar Help &8[&dLumberJacker &71/1&8] &6=====
+&7http://wiki.fantasywar.net/professions
+
+&6As a lumberjacker you need to get wood and plant new trees.
+&6The better you get and the more you do the more you will earn.
+
+&6Extra job:
+&5Bring Apples to the lumberjacker for extra money.
+
+&6Base earning:
+&6Logs &7- &5Break &a0.05 &7- &5Place &c-0.05
+&6Saplings &7- &5Break &c-0.02 &7- &5Place &a0.02

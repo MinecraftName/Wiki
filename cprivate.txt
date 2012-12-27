@@ -1,0 +1,11 @@
+&6===== &5FantasyWar Help &8[&dPrivate &71/1&8] &6=====
+&7http://wiki.fantasywar.net/Chat
+
+&6Private is to talk player vs player.
+&6Others can not read what you tell to the other person.
+&6This can be useful to talk about things others may bot hear.
+&6To sent private messages you use &5/msg {name} {msg}
+&6When you receive a message you can reply to it with &5/r {msg}
+
+&6Example: &8/msg worstboy32 Can you come help me?
+&6worst: &8/r Please make a ticket. /modreq {question}

@@ -1,0 +1,21 @@
+&6===== &5FantasyWar Help &8[&dOther-Ranks &71/1&8] &6=====
+&7http://wiki.fantasywar.net/Ranks
+
+&6There are a few other ranks that don't belong to a group.
+&6Like when you start on the server you are a Newcomer.
+&6And when you use the confirmation sign you are a outside.
+&6But when you finish the tutorial you become a Citizen.
+
+&7[&7Newcomer&7] &5-> &6First rank when you join.
+&6You can't do anything with this rank.
+&6You can't even chat or interact with anything.
+&6This is to prevent bot attacks.
+&6To leave this rank you need to use the [JOIN] sign at tutorial.
+
+&7[&7Outsider&7] &5-> &6Rank after confirmation.
+&6You can't do a lot with this rank yet!
+&6Make sure to finish the tutorial.
+
+&7[&7Citizen&7] &5-> &6Rank after finishing tutorial.
+&6This is the highest other rank you need to get this to play.
+&6To get this take the airship to Euphoria from the tutorial.

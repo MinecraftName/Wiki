@@ -1,0 +1,17 @@
+&6===== &5FantasyWar Help &8[&dDonator-Ranks &71/1&8] &6=====
+&7http://wiki.fantasywar.net/Ranks
+
+&6There are 9 different ranks you can donate for.
+&6Each of this ranks have there own permissions and tags.
+
+&6More information can be found in /fw donate
+
+&7[&7Knight&7] &5-> &65 euro donation rank.
+&7[&8Lord&7] &5-> &610 euro donation rank.
+&7[&eHero&7] &5-> &620 euro donation rank.
+&7[&aLegend&7] &5-> &630 euro donation rank.
+&7[&bPrince&7] &5-> &650 euro donation rank.
+&7[&3Sage&7] &5-> &675 euro donation rank.
+&7[&4Veteran&7] &5-> &6100 euro donation rank.
+&7[&cEmperor&7] &5-> &6150 euro donation rank.
+&7[&6King&&] &5-> &6200 euro donation rank.

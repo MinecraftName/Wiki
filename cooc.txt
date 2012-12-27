@@ -1,0 +1,14 @@
+&6===== &5FantasyWar Help &8[&dOOC &71/1&8] &6=====
+&7http://wiki.fantasywar.net/Chat
+
+&6OOC means Out-Of-Character chat.
+&6This means when you toggle this chat on you can talk about
+&6Things not related to the server and not roleplaying.
+&6This chat is a toggle instead of using a command.
+&6You can just toggle it on and you can keep sending msges in it.
+&6To toggle OOC chat use &5/ooc &6And then you can chat in it.
+&6Use the same command to toggle it off again.
+
+&6Example: &8/ooc &7(toggle on)
+&6Example: &8Damn have you seen new mc update?
+&6Example: &8/ooc &7(Toggle off again)
