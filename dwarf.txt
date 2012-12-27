@@ -3,7 +3,6 @@
 
 &6Color: &8DarkGray
 &6LandScape: &5Mountains/Lakes
-&6Empire Leader: &5Ghed7
 &6CountryName: &5
 &6CityName: &5
 &6CityLocation: &5X: &8422 &5Z: &8537
