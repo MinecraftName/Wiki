@@ -11,7 +11,7 @@
 &6Classes: &5Freeman, Huscarl & Berserker.
 
 &6Ability's:
-&6- Disguise: &5SnowGolem
+&6- Disguise: &5Slime
 &6- MagicSpells: &5Scuba, Snowball & SpeedBoats.
 &6- Professions: &5Fisher, Digger & Farmer.
 &6- Empire related Shop
